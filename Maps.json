@@ -1,0 +1,630 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+    {
+      "id": 1,
+      "name_skin": "Batman",
+      "skin_url": "https://aliendro.id/uploads/demo/premiummods/batman_skin.png",
+      "view_skin": "https://aliendro.id/uploads/demo/premiummods/batman_view.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "Captain Marvel",
+      "skin_url": "https://lh3.googleusercontent.com/OfCeIDybTytw5cqRZlaVfiiAMMS-i3WiiRveFS6dxdQoprJvqJEcYWf-mfbL9B2gCg6USEnrj2ANuhd79h3EeQ",
+      "view_skin": "https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+    },
+    {
+      "id": 3,
+      "name_skin": "Ironman",
+      "skin_url": "https://lh3.googleusercontent.com/cw7kMNis22WSYQt3ald4CE0MGDIHEz6F117yi5siSfiADir_zYIsC6zT6K7rp2Zwn9aAXe841ULg_MUoAqpFWOM",
+      "view_skin": "https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+    },
+    {
+      "id": 4,
+      "name_skin": "Spiderman",
+      "skin_url": "https://lh3.googleusercontent.com/KAoenQJU0Xm6LdpnM3I4h1oeL6z_kQXxSGlE00ONC8t4RDPsY5wmfYZL1VaapuZbS4im69s5ufdiXOEE_EHy0pdbBEbx8EdEFsE",
+      "view_skin": "https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
+    },
+    {
+      "id": 5,
+      "name_skin": "Deadpool",
+      "skin_url": "https://lh3.googleusercontent.com/Xy2u40iqg60XY_J9SGUAQWYvuRJVMEkDmJCzCLiCLWL0rIFbSYnTojyk60aZhDMJ62daSgUb4m90sgpRVZ4_",
+      "view_skin": "https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA"
+    },
+    {
+      "id": 6,
+      "name_skin": "Captain Amerika",
+      "skin_url": "https://lh3.googleusercontent.com/oda0Fu14lq4LT-L8aGh9bBpwrymZZrz7K9owAmJ8CF0YSkaLa55vuSNZi-KYTMtpZubyhsXhbCja4C71Wba1",
+      "view_skin": "https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
+    },
+    {
+      "id": 7,
+      "name_skin": "Wolverine",
+      "skin_url": "https://lh3.googleusercontent.com/ZfX6xK9-84eVmBlUhuq-V3jyQ3sRtXkMOle5VNL7clFTCVYjUQO2eGdO-D_Xf6r4mPTX_BEYN6bG4MANpIczGw",
+      "view_skin": "https://lh3.googleusercontent.com/uaJPGCy4OKO-l-kO31_bGPswxU8ChJPOUSjDGqE01F4Klla4xIOi7MzPdiLyeiWXTnYpDsKZy20RZknG5Sdo"
+    },
+    {
+      "id": 9,
+      "name_skin": "Thor",
+      "skin_url": "https://lh3.googleusercontent.com/BgJkkp9d5LPaNMdIQv8xbG_dF8Px6rB7_SUZdmcykrMRAYHNqJ1812ZWs3f7XxRZ24TPy15-_CPIumEiCR1G",
+      "view_skin": "https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
+    },
+    {
+      "id": 10,
+      "name_skin": "Superman",
+      "skin_url": "https://lh3.googleusercontent.com/l1JqeAYBwvgznipUWLN3EA4q_W2ySXC7gZ1L86FymWPNFoWgQh9CAGNb_pGX6uqQfFeDuaMwJh2K2UkAQD8eBw",
+      "view_skin": "https://lh3.googleusercontent.com/7zmiS3wCq6Uszcg0O-NJRWAsepF47TT-lqujRgaf7NguiMUGTnl6iGeA6-h5-T458sddzA0WRH-iVM94u-U8"
+    },
+    {
+      "id": 11,
+      "name_skin": "One Pouch Man",
+      "skin_url": "https://lh3.googleusercontent.com/BlXcjXTOPxMgMrQ7SJWOtznAZlkGxDJZ8KceboZEB_AbwwLAau_zbZfQgeF3H8BMX_XSTLAgnmxdL75XDTM7X8s",
+      "view_skin": "https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
+    },
+    {
+      "id": 12,
+      "name_skin": "Son Goku",
+      "skin_url": "https://lh3.googleusercontent.com/E7V0YcV9V0GP2fdr1gtCDmlPl00-zEvVPVkNdoYRMvnECblejwti7dXWGQJzh-ZAWOkw7BrUvHxONquFc6zbqg",
+      "view_skin": "https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
+    }
+  ],
+  "Skin-Pack": 
+  [
+    {
+      "id": 0,
+      "name_skin": "Eevee FBI",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Eevee%20FBI.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/101313/100/image_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Steve and Alex Holding",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Steve%20and%20Alex%20Holding%20V1.6.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/96835/101/steve-and-alex-holding_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Pokemon Caracter",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Pokmon_Trainers_Boys_19.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/100014/101/treinadores_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Neon Mobs",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Neon%20Mobs%21%20by%20ThreadyPilot.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/100161/100/diseo-sin-ttulo_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Dinos",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Dinos%21%20by%20ThreadyPilot.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/100013/100/dinos_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Assassins Creed",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Assassins%20Creed%20SkinPack%201.0.3.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/91116/101/sin-ttulo1_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Pajamas",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Pajamas%21%20by%20Threadypilot.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/99087/100/pajamas_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Valorant",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/ValorantSkinPack1.3.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/91480/100/valorant_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Girl Skin Pack",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Girl_Skin_Pack.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/3336/140/20221028155129_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Doctor Who",
+      "skin_url": "https://archive.org/download/SkinPack/SkinPack/Doctor_who_skin_pack_1.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/98800/100/20230301-1_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "PFL Bulldogs",
+      "skin_url": "https://archive.org/download/SkinPack/BulldogsSkinPack.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/98708/100/bulldogs_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Cardboard Mobs",
+      "skin_url": "https://archive.org/download/SkinPack/Cardboard%20Mobs%20v2.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/73122/101/cardboardmobimage_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "LOL Valentine Day",
+      "skin_url": "https://archive.org/download/SkinPack/LOLHEART.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/97303/103/lol-valentines-day_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Mr Axolotls",
+      "skin_url": "https://archive.org/download/SkinPack/Mr%20Axolotls%20skin%20pack%20%281%20new%20skin%20added%20it%29.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/96234/100/20221226131625_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Shrek",
+      "skin_url": "https://archive.org/download/SkinPack/SHREK%20SERIES.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/98226/100/shrek_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Among Us SUS",
+      "skin_url": "https://archive.org/download/SkinPack/SUS%20skin%20Pack%20V1.5.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/96185/101/among-us_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Sketch494s",
+      "skin_url": "https://archive.org/download/SkinPack/Sketchy_Skins.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/87920/106/kkkk_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Wolfys Anime",
+      "skin_url": "https://archive.org/download/SkinPack/WolfysAnim.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/98377/100/20230219000856_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "XP Team in Hive Style",
+      "skin_url": "https://archive.org/download/SkinPack/XP_Team_in_Hive_style.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/98078/102/20230216103908_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    },
+    {
+      "id": 0,
+      "name_skin": "Neon Skin Pack",
+      "skin_url": "https://archive.org/download/SkinPack/neon_skin_pack.mcpack",
+      "view_skin": "https://api.mcpedl.com/storage/submissions/98289/100/neonthumbnail_1-520x245.png",
+      "des_skin": "file:///android_asset/dream.html"
+    }
+  ],
+  "Addons": 
+  [
+    {
+      "id":1,
+      "name_add":"Advancement Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/3advancement/AdvancementPack%20%5BBP%5D.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/3advancement/AdvancementPack%20%5BRP%5D.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/3advancement/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":2,
+      "name_add":"Aether Dimension Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/4aether/AetherBeha.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/4aether/AetherReso.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/4aether/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":3,
+      "name_add":"Armor Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/6armor/More%20Armor_behavior_pack.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/6armor/More%20Armor_resource_pack.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/6armor/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":4,
+      "name_add":"Backpack Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/8backpack/backpacks%20bp%20V4.4.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/8backpack/backpack%20R%20V4.2.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/8backpack/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":5,
+      "name_add":"Cars Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/9cars/SimpleVehiPack3BP.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/9cars/SimpleVehiPack3RP.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/9cars/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":6,
+      "name_add":"Doramon Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/12doramon/Doraemon_BP_1.1.1.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/12doramon/Doraemon_RP_1.1.1.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/12doramon/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":7,
+      "name_add":"Dragon Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/13dragon/DragonMounB.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/13dragon/DragonMounR.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/13dragon/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":8,
+      "name_add":"Family Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/14family/EN-US%20Family%20life%20BEH.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/14family/EN-US%20Family%20life%20RES.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/14family/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":9,
+      "name_add":"Furniture Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/15furniture/%28Behavior%29%20Mine-Furniture%20V6.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/15furniture/%28Resource%29%20Mine-Furnitures%20V6.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/15furniture/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":10,
+      "name_add":"Guns Weapons Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/16gunsweapons/Guns%20%26%20Weapons%20BP%20v3.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/16gunsweapons/Guns%20%26%20Weapons%20RP%20v3.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/16gunsweapons/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":11,
+      "name_add":"Hardcore Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/17hardcore/Hardcore%20Mode%20Behaviour.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/17hardcore/Hardcore%20Mode%20Resource.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/17hardcore/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":12,
+      "name_add":"Money Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/22money/Coins-Behaviour.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/22money/Coins-Resources.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/22money/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":13,
+      "name_add":"Mowzies Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/23mowzies/UNOFFICIAL%20Mowzie%27s%20Mobs%20BP.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/23mowzies/UNOFFICIAL%20Mowzie%27s%20Mobs%20RP.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/23mowzies/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":14,
+      "name_add":"Mutant Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/24mutant/PocketMutantC_beh.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/24mutant/PocketMutantC_res.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/24mutant/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":15,
+      "name_add":"Pixelmon Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/28pixelmon/Pokemon%20Beh%20%5BBy.DrGame%5D.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/28pixelmon/Pokemon%20Res%20%5BBy.DrGame%5D.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/28pixelmon/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":16,
+      "name_add":"Player Shrinks Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/29playershrinks/behaviors.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/29playershrinks/resources.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/29playershrinks/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":17,
+      "name_add":"Pvz Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/30pvz/PVZ_V10%20BP.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/30pvz/PVZ_V10%20RP.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/30pvz/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":18,
+      "name_add":"Rainbow Friends Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/33rainbowfriends/RAINBOW%20FRIENDS%20BP.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/33rainbowfriends/RAINBOW%20FRIENDS%20RP.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/33rainbowfriends/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":19,
+      "name_add":"Peppa Pig Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/44peppapig/%5BPeppa%20Pig%5DGeorge%20%5BBP%5D.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/44peppapig/%5BPeppa%20Pig%5DGeorge%20%5BRP%5D.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/44peppapig/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":20,
+      "name_add":"Tnt Mod",
+      "addB_url":"https://archive.org/download/addon2023/Addon/45tnt/More%20TNT%20BEH.mcpack",
+      "addR_url":"https://archive.org/download/addon2023/Addon/45tnt/More%20TNT%20RES.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/45tnt/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":21,
+      "name_add":"Morph Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/1morph/morph-0_4-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/1morph/morph-0_4-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/1morph/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":22,
+      "name_add":"Mobs Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/2mobs/mobs-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/2mobs/mobs-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/2mobs/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":23,
+      "name_add":"Animals Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/5animals/5animals-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/5animals/5animals-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/5animals/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":24,
+      "name_add":"Jurassic Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/11dinosaurjurassic/11dinosaurjurassic-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/11dinosaurjurassic/11dinosaurjurassic-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/11dinosaurjurassic/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":25,
+      "name_add":"Iron Golem Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/19irongolem/19irongolem-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/19irongolem/19irongolem-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/19irongolem/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":26,
+      "name_add":"Jenny Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/20jenny/20jenny-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/20jenny/20jenny-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/20jenny/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":27,
+      "name_add":"Magic Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/21magic/21magic-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/21magic/21magic-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/21magic/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":28,
+      "name_add":"Real Train Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/34realtrain/34realtrain-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/34realtrain/34realtrain-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/34realtrain/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":29,
+      "name_add":"Swords Weapons Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/37swords&weapons/37swords&weapons-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/37swords&weapons/37swords&weapons-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/37swords&weapons/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":30,
+      "name_add":"Timestop Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/38timestop/38timestop-b.mcaddon",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/38timestop/38timestop-r.mcaddon",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/38timestop/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":31,
+      "name_add":"Zombie Apocalypse Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/40zombieapocalypse/40zombieapocalypse-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/40zombieapocalypse/40zombieapocalypse-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/40zombieapocalypse/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":32,
+      "name_add":"Warden Mod",
+      "addB_url":"https://torirastudio.com/data/godev/asepudindev/mod/46warden/46warden-b.mcpack",
+      "addR_url":"https://torirastudio.com/data/godev/asepudindev/mod/46warden/46warden-r.mcpack",
+      "view_add":"https://torirastudio.com/data/godev/asepudindev/mod/46warden/ic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":33,
+      "name_add":"Laser Guns",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1fecNl6zuMKdAce21fk_gPQsYeWJIAHqs",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nNJ7OIQ70jf7Vhu4maqe8c3bNKfPA-Kq",
+      "view_add":"https://plus62852.github.io/File/img-addon/lasergun.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":34,
+      "name_add":"Number Blocks",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1KZnxn6sCdBcBOZ8Y_gSLRvkOUsbyzhcQ",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1d0mF3L-LzeVKuMzsZIJDKpcimcZgZb2F",
+      "view_add":"https://plus62852.github.io/File/img-addon/numberblock.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":35,
+      "name_add":"The Imposter",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1ByDwzjP_PeJqQ0eL2qFL82kfCsmcql92",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1rE9j54nJmEugg9YsY6t9gbOrg3MHlSiW",
+      "view_add":"https://plus62852.github.io/File/img-addon/imposter.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":36,
+      "name_add":"Uncrafting Table",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1Qh6B5n5eqo0FfY66Pvz8WdjLgL05yGU6",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1LazyyZFuj2Bo8Ry_gAbEZXu4c0QiFHi3",
+      "view_add":"https://plus62852.github.io/File/img-addon/uncrafting.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":37,
+      "name_add":"Furniture",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1FpfP_9i8z5UYlJI62-eBV8pZxzGAUfXE",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1nwkNQ0d33yQ2yZIaos0uzRWa-WTf3M74",
+      "view_add":"https://plus62852.github.io/File/img-addon/furniture.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":38,
+      "name_add":"Guns",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1CMl63RPgEHDJafBFxYGb7XkmFPl9z4-b",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1MZtEJ62y8IRZGnGrPkO5D-qH2DtYWvrj",
+      "view_add":"https://plus62852.github.io/File/img-addon/gun.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":39,
+      "name_add":"Dynamite Projectile",
+      "addB_url":"https://drive.google.com/uc?export=download&id=11BRNpNxCffBu3vQnca32uXefyVqM_OwI",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1ir2zG4L_7UuBQWwPJvlxFnAwyyM4wwVq",
+      "view_add":"https://plus62852.github.io/File/img-addon/dynamite.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+    {
+      "id":40,
+      "name_add":"Actual Guns",
+      "addB_url":"https://drive.google.com/uc?export=download&id=1izIV6iJOrD-5Vb9W7UY2FgYpEhAZGTd_",
+      "addR_url":"https://drive.google.com/uc?export=download&id=1E4YDovuvJMT2E5leamZsydtrWcavlUZR",
+      "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    }
+  ],
+  "Maps": 
+  [
+    {
+      "id": 0,
+      "name_map": "City Hall Hengshui",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/building-city-hall-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/06-02-2023/Hangshui-City.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "City Hall Capital",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/churches-city-hall-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/06-02-2023/Capital.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "City Hall Ashby",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/roads-city-hall-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/06-02-2023/Ashby.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Modern City Tomorrow land",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/houses-modern-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/04-02-2023/tomorrow-land.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Modern City Capital",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/fountain-modern-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/04-02-2023/capital.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Modern City",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/buildings-modern-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/04-02-2023/modern-city.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Atlantis",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/spawn-place-underwater-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/05-02-2023/Atlantis.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Lost City",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/mobs-underwater-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/05-02-2023/lost-city.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Underwater village",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/locations-underwater-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/05-02-2023/underwater-village.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    }
+  ]
+}
