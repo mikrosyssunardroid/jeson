@@ -1,0 +1,65 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+
+  ],
+  "Skin-Pack": 
+  [
+
+  ],
+  "Addons": 
+  [
+
+  ],
+  "Maps": 
+  [
+    {
+      "id": 0,
+      "name_map": "Las Vegas",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/beach-reslistic-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/07-02-2023/las-vegas.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Patriotville",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/swimming-pool-reslistic-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/07-02-2023/patriotville.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Eco City",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/structures-realistic-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/07-02-2023/Eco-City.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    }
+  ]
+}
