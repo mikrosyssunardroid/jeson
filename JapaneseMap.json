@@ -1,0 +1,79 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+
+  ],
+  "Skin-Pack": 
+  [
+
+  ],
+  "Addons": 
+  [
+
+  ],
+  "Maps": 
+  [
+	{
+      "id": 0,
+      "name_map": "Japanese Village",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/03/village-japanese-house-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/17-03-2023/japanese-village.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Seven Towers",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/03/structures-japanese-house-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/17-03-2023/seven-towers.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Urashima",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/structures-japanase-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/07-02-2023/Urashima.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Kyokei",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/houses-japanase-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/07-02-2023/Hangshui-City.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Hangshui City",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2023/02/buildings-japanase-city-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/07-02-2023/Hangshui-City.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    }
+  ]
+}
