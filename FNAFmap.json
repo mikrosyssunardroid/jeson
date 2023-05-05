@@ -1,0 +1,100 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+
+  ],
+  "Skin-Pack": 
+  [
+
+  ],
+  "Addons": 
+  [
+
+  ],
+  "Maps": 
+  [
+    {
+      "id": 0,
+      "name_map": "FNAF v1",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2020/06/fotofnaf2-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/13-06-2020/fnafv1.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "FNAF 2020 Edition",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2020/06/fotofnaf3-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/13-06-2020/FNaF.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "FNaF 1 Roleplay",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2020/06/fotopreview2-12-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/13-06-2020/FNAFRoleplay.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "FNAF 2",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2020/06/fotofnaf3-1-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/16-06-2020/fnaf2.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Nights At Freddy",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2020/06/fotopreview2-12-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/16-06-2020/THEONLYFREDDYFAZBEAR.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "FNAF 3",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2022/02/screamers-fnaf-3-map-minecraft-pe-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/22-02-2022/fnaf-3.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "FNAF 4",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2022/02/kitchen-fnaf-4-map-minecraft-pe-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/22-02-2022/fnaf-4.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "FNAF 5",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2022/02/blood-fnaf-5-map-minecraft-pe-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/24-02-2022/fnaf-5.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    }
+  ]
+}
