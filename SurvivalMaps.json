@@ -1,0 +1,247 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+
+  ],
+  "Skin-Pack": 
+  [
+
+  ],
+  "Addons": 
+  [
+
+  ],
+  "Maps": 
+  [
+	{
+      "id": 0,
+      "name_map": "Snowy Survival",
+      "view_map": "file:///android_asset/img/Snowy Survival.png",
+      "map_url": "https://mcpedl.org/uploads_files/28-08-2022/snowy-hell.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Desert Survival",
+      "view_map": "file:///android_asset/img/Desert Survival.png",
+      "map_url": "https://mcpedl.org/uploads_files/28-08-2022/desert-survival.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Egypt Survival",
+      "view_map": "file:///android_asset/img/Egypt Survival.png",
+      "map_url": "https://mcpedl.org/uploads_files/28-08-2022/egypt-survival.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "House in Desert",
+      "view_map": "file:///android_asset/img/House in Desert.png",
+      "map_url": "https://mcpedl.org/uploads_files/28-08-2022/house-in-desert.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Mushroom island",
+      "view_map": "file:///android_asset/img/Mushroom island.png",
+      "map_url": "https://mcpedl.org/uploads_files/31-10-2022/Mushroom-island.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Mushroom caves",
+      "view_map": "file:///android_asset/img/Mushroom caves.png",
+      "map_url": "https://mcpedl.org/uploads_files/31-10-2022/mushroom-caves.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Mushroom survival",
+      "view_map": "file:///android_asset/img/Mushroom survival.png",
+      "map_url": "https://mcpedl.org/uploads_files/31-10-2022/mushroom-survival.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Bottle Survival",
+      "view_map": "file:///android_asset/img/Bottle Survival.png",
+      "map_url": "https://mcpedl.org/uploads_files/16-11-2022/bottle-survival.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Skygrid",
+      "view_map": "file:///android_asset/img/Skygrid.png",
+      "map_url": "https://mcpedl.org/uploads_files/28-03-2023/skygrid.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Improved Skygrid",
+      "view_map": "file:///android_asset/img/Improved Skygrid.png",
+      "map_url": "https://mcpedl.org/uploads_files/28-03-2023/improved-skygrid.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Advanced Skygrid",
+      "view_map": "file:///android_asset/img/Advanced Skygrid.png",
+      "map_url": "https://mcpedl.org/uploads_files/28-03-2023/advanced-skygrid.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Long Tunnel",
+      "view_map": "file:///android_asset/img/Long Tunnel.png",
+      "map_url": "https://mcpedl.org/uploads_files/19-07-2021/long-tunnel.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "On Street",
+      "view_map": "file:///android_asset/img/On Street.png",
+      "map_url": "https://mcpedl.org/uploads_files/19-07-2021/on-street.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Squid Game",
+      "view_map": "file:///android_asset/img/Squid Game.png",
+      "map_url": "https://mcpedl.org/uploads_files/17-01-2022/squid-game.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "My Medieval Village",
+      "view_map": "file:///android_asset/img/My Medieval Village.png",
+      "map_url": "https://mcpedl.org/uploads_files/01-03-2022/my-medieval-village.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Keragard",
+      "view_map": "file:///android_asset/img/Keragard.png",
+      "map_url": "https://mcpedl.org/uploads_files/01-03-2022/keragard.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Medieval Village",
+      "view_map": "file:///android_asset/img/Medieval Village.png",
+      "map_url": "https://mcpedl.org/uploads_files/01-03-2022/medieval-village.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Lava Island",
+      "view_map": "file:///android_asset/img/Lava Island.png",
+      "map_url": "https://mcpedl.org/uploads_files/25-08-2022/lava-island.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Sea Survival",
+      "view_map": "file:///android_asset/img/Sea Survival.png",
+      "map_url": "https://mcpedl.org/uploads_files/25-08-2022/sea-survival.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Frozen Survival",
+      "view_map": "file:///android_asset/img/Frozen Survival.png",
+      "map_url": "https://mcpedl.org/uploads_files/25-08-2022/frozen-world.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "One Block Challenge",
+      "view_map": "file:///android_asset/img/One Block Challenge.png",
+      "map_url": "https://mcpedl.org/uploads_files/01-01-2021/minecraftenunblock.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Subnautica",
+      "view_map": "file:///android_asset/img/Subnautica.png",
+      "map_url": "https://mcpedl.org/uploads_files/12-07-2021/subnautica.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Subnautica Base",
+      "view_map": "file:///android_asset/img/Subnautica Base.png",
+      "map_url": "https://mcpedl.org/uploads_files/12-07-2021/subnautica-base.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "Smart SkyBlock",
+      "view_map": "file:///android_asset/img/Smart SkyBlock.png",
+      "map_url": "https://mcpedl.org/uploads_files/14-07-2021/smart-skyblock.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "SkyBlock Creativity",
+      "view_map": "file:///android_asset/img/SkyBlock Creativity.png",
+      "map_url": "https://mcpedl.org/uploads_files/14-07-2021/skyblock-creativity.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "40 Islands",
+      "view_map": "file:///android_asset/img/40 Islands.png",
+      "map_url": "https://mcpedl.org/uploads_files/14-07-2021/40-islands.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Islands of Eden",
+      "view_map": "file:///android_asset/img/Islands of Eden.png",
+      "map_url": "https://mcpedl.org/uploads_files/16-07-2021/islands-of-eden.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+    {
+      "id": 0,
+      "name_map": "The Misty Dungeon",
+      "view_map": "file:///android_asset/img/The Misty Dungeon.png",
+      "map_url": "https://mcpedl.org/uploads_files/16-07-2021/the-misty-dungeon.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "Notchland",
+      "view_map": "file:///android_asset/img/Notchland.png",
+      "map_url": "https://mcpedl.org/uploads_files/18-07-2021/the-lands-of-the-notch.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    }
+  ]
+}
