@@ -258,7 +258,43 @@
   ],
   "Addons": 
   [
+		{
+      "id":0,
+      "name_add":"Block Physics",
+      "add_url":"file:///android_asset/BlockPhysics/BlockPhysics.zip",
+      "addB_url":"file:///android_asset/BlockPhysics/BP.mcpack",
+      "addR_url":"file:///android_asset/BlockPhysics/RP.mcpack",
+      "view_add":"file:///android_asset/BlockPhysics/BlockPhysics.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
 	{
+      "id":0,
+      "name_add":"Item Physics",
+      "add_url":"file:///android_asset/Item Physics/ItemPhysics.zip",
+      "addB_url":"file:///android_asset/Item Physics/Item Physics BP.mcpack",
+      "addR_url":"file:///android_asset/Item Physics/Item Physics RP.mcpack",
+      "view_add":"file:///android_asset/Item Physics/ItemPhysics.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"Misili Doors",
+      "add_url":"file:///android_asset/Malisis/Malisis.zip",
+      "addB_url":"file:///android_asset/Malisis/MalisisBP.mcpack",
+      "addR_url":"file:///android_asset/Malisis/MalisisRP.mcpack",
+      "view_add":"file:///android_asset/Malisis/Malisis.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"Natural Expansion",
+      "add_url":"file:///android_asset/NTCR/NTCR.zip",
+      "addB_url":"file:///android_asset/NTCR/NTCR_behavior.mcpack",
+      "addR_url":"file:///android_asset/NTCR/NTCR_resource.mcpack",
+      "view_add":"file:///android_asset/NTCR/NTCR.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	  {
       "id":0,
       "name_add":"physic mod addon",
       "add_url":"https://rastariski01.github.io/physicmod/mod/addon1.zip",
