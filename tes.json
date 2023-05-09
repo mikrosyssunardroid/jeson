@@ -559,6 +559,60 @@
       "addR_url":"https://drive.google.com/uc?export=download&id=1E4YDovuvJMT2E5leamZsydtrWcavlUZR",
       "view_add":"https://plus62852.github.io/File/img-addon/actualguns.png",
       "des_add":"file:///android_asset/ADDON.html"
+    },
+	      {
+      "id":41,
+      "name_add":"physic mod addon",
+      "add_url":"https://rastariski01.github.io/physicmod/mod/addon1.zip",
+      "addB_url":"https://rastariski01.github.io/physicmod/mod/addon1(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/physicmod/mod/addon1(R).mcpack",
+      "view_add":"file:///android_asset/ad1.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":42,
+      "name_add":"physic mod addon",
+      "add_url":"https://rastariski01.github.io/physicmod/mod/addon2.zip",
+      "addB_url":"https://rastariski01.github.io/physicmod/mod/addon2(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/physicmod/mod/addon2(R).mcpack",
+      "view_add":"file:///android_asset/ad2.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":43,
+      "name_add":"physic mod addon",
+      "add_url":"https://rastariski01.github.io/physicmod/mod/addon3.zip",
+      "addB_url":"https://rastariski01.github.io/physicmod/mod/addon3(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/physicmod/mod/addon3(R).mcpack",
+      "view_add":"file:///android_asset/ad3.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":44,
+      "name_add":"physic mod addon",
+      "add_url":"https://rastariski01.github.io/physicmod/mod/addon4.zip",
+      "addB_url":"https://rastariski01.github.io/physicmod/mod/addon4(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/physicmod/mod/addon4(R).mcpack",
+      "view_add":"file:///android_asset/ad4.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":45,
+      "name_add":"physic mod addon",
+      "add_url":"https://rastariski01.github.io/physicmod/mod/addon5.zip",
+      "addB_url":"https://rastariski01.github.io/physicmod/mod/addon5(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/physicmod/mod/addon5(R).mcpack",
+      "view_add":"file:///android_asset/ad5.png",
+      "des_add":"file:///android_asset/adon.html"
+    },
+    {
+      "id":46,
+      "name_add":"physic mod addon",
+      "add_url":"https://rastariski01.github.io/physicmod/mod/addon6.zip",
+      "addB_url":"https://rastariski01.github.io/physicmod/mod/addon6(B).mcpack",
+      "addR_url":"https://rastariski01.github.io/physicmod/mod/addon6(R).mcpack",
+      "view_add":"file:///android_asset/ad6.png",
+      "des_add":"file:///android_asset/adon.html"
     }
   ],
   "Maps": 
