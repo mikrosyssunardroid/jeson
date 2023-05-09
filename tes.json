@@ -29,70 +29,154 @@
   "Skin": 
   [
     {
-      "id": 1,
-      "name_skin": "Batman",
-      "skin_url": "https://aliendro.id/uploads/demo/premiummods/batman_skin.png",
-      "view_skin": "https://aliendro.id/uploads/demo/premiummods/batman_view.png"
+      "id":1,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin1.png",
+      "view_skin":"file:///android_asset/1.png"
     },
     {
-      "id": 2,
-      "name_skin": "Captain Marvel",
-      "skin_url": "https://lh3.googleusercontent.com/OfCeIDybTytw5cqRZlaVfiiAMMS-i3WiiRveFS6dxdQoprJvqJEcYWf-mfbL9B2gCg6USEnrj2ANuhd79h3EeQ",
-      "view_skin": "https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+      "id":2,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin2.png",
+      "view_skin":"file:///android_asset/2.png"
     },
     {
-      "id": 3,
-      "name_skin": "Ironman",
-      "skin_url": "https://lh3.googleusercontent.com/cw7kMNis22WSYQt3ald4CE0MGDIHEz6F117yi5siSfiADir_zYIsC6zT6K7rp2Zwn9aAXe841ULg_MUoAqpFWOM",
-      "view_skin": "https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+      "id":3,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin3.png",
+      "view_skin":"file:///android_asset/3.png"
     },
     {
-      "id": 4,
-      "name_skin": "Spiderman",
-      "skin_url": "https://lh3.googleusercontent.com/KAoenQJU0Xm6LdpnM3I4h1oeL6z_kQXxSGlE00ONC8t4RDPsY5wmfYZL1VaapuZbS4im69s5ufdiXOEE_EHy0pdbBEbx8EdEFsE",
-      "view_skin": "https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
+      "id":4,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin4.png",
+      "view_skin":"file:///android_asset/4.png"
     },
     {
-      "id": 5,
-      "name_skin": "Deadpool",
-      "skin_url": "https://lh3.googleusercontent.com/Xy2u40iqg60XY_J9SGUAQWYvuRJVMEkDmJCzCLiCLWL0rIFbSYnTojyk60aZhDMJ62daSgUb4m90sgpRVZ4_",
-      "view_skin": "https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA"
+      "id":5,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin5.png",
+      "view_skin":"file:///android_asset/5.png"
     },
     {
-      "id": 6,
-      "name_skin": "Captain Amerika",
-      "skin_url": "https://lh3.googleusercontent.com/oda0Fu14lq4LT-L8aGh9bBpwrymZZrz7K9owAmJ8CF0YSkaLa55vuSNZi-KYTMtpZubyhsXhbCja4C71Wba1",
-      "view_skin": "https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
+      "id":6,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin6.png",
+      "view_skin":"file:///android_asset/6.png"
     },
     {
-      "id": 7,
-      "name_skin": "Wolverine",
-      "skin_url": "https://lh3.googleusercontent.com/ZfX6xK9-84eVmBlUhuq-V3jyQ3sRtXkMOle5VNL7clFTCVYjUQO2eGdO-D_Xf6r4mPTX_BEYN6bG4MANpIczGw",
-      "view_skin": "https://lh3.googleusercontent.com/uaJPGCy4OKO-l-kO31_bGPswxU8ChJPOUSjDGqE01F4Klla4xIOi7MzPdiLyeiWXTnYpDsKZy20RZknG5Sdo"
+      "id":7,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin7.png",
+      "view_skin":"file:///android_asset/7.png"
     },
     {
-      "id": 9,
-      "name_skin": "Thor",
-      "skin_url": "https://lh3.googleusercontent.com/BgJkkp9d5LPaNMdIQv8xbG_dF8Px6rB7_SUZdmcykrMRAYHNqJ1812ZWs3f7XxRZ24TPy15-_CPIumEiCR1G",
-      "view_skin": "https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
+      "id":8,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin8.png",
+      "view_skin":"file:///android_asset/8.png"
     },
     {
-      "id": 10,
-      "name_skin": "Superman",
-      "skin_url": "https://lh3.googleusercontent.com/l1JqeAYBwvgznipUWLN3EA4q_W2ySXC7gZ1L86FymWPNFoWgQh9CAGNb_pGX6uqQfFeDuaMwJh2K2UkAQD8eBw",
-      "view_skin": "https://lh3.googleusercontent.com/7zmiS3wCq6Uszcg0O-NJRWAsepF47TT-lqujRgaf7NguiMUGTnl6iGeA6-h5-T458sddzA0WRH-iVM94u-U8"
+      "id":9,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin9.png",
+      "view_skin":"file:///android_asset/9.png"
     },
     {
-      "id": 11,
-      "name_skin": "One Pouch Man",
-      "skin_url": "https://lh3.googleusercontent.com/BlXcjXTOPxMgMrQ7SJWOtznAZlkGxDJZ8KceboZEB_AbwwLAau_zbZfQgeF3H8BMX_XSTLAgnmxdL75XDTM7X8s",
-      "view_skin": "https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
+      "id":10,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin10.png",
+      "view_skin":"file:///android_asset/10.png"
     },
     {
-      "id": 12,
-      "name_skin": "Son Goku",
-      "skin_url": "https://lh3.googleusercontent.com/E7V0YcV9V0GP2fdr1gtCDmlPl00-zEvVPVkNdoYRMvnECblejwti7dXWGQJzh-ZAWOkw7BrUvHxONquFc6zbqg",
-      "view_skin": "https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
+      "id":11,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin11.png",
+      "view_skin":"file:///android_asset/11.png"
+    },
+    {
+      "id":12,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin12.png",
+      "view_skin":"file:///android_asset/12.png"
+    },
+    {
+      "id":13,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin13.png",
+      "view_skin":"file:///android_asset/13.png"
+    },
+    {
+      "id":14,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin14.png",
+      "view_skin":"file:///android_asset/14.png"
+    },
+    {
+      "id":15,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin15.png",
+      "view_skin":"file:///android_asset/15.png"
+    },
+    {
+      "id":16,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin16.png",
+      "view_skin":"file:///android_asset/16.png"
+    },
+    {
+      "id":17,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin17.png",
+      "view_skin":"file:///android_asset/17.png"
+    },
+    {
+      "id":18,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin18.png",
+      "view_skin":"file:///android_asset/18.png"
+    },
+    {
+      "id":19,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin19.png",
+      "view_skin":"file:///android_asset/19.png"
+    },
+    {
+      "id":20,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin20.png",
+      "view_skin":"file:///android_asset/20.png"
+    },
+    {
+      "id":21,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin21.png",
+      "view_skin":"file:///android_asset/21.png"
+    },
+    {
+      "id":22,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin22.png",
+      "view_skin":"file:///android_asset/22.png"
+    },
+    {
+      "id":23,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin23.png",
+      "view_skin":"file:///android_asset/23.png"
+    },
+    {
+      "id":24,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin24.png",
+      "view_skin":"file:///android_asset/24.png"
+    },
+    {
+      "id":25,
+      "name_skin":"physic SKIN",
+      "skin_url":"file:///android_asset/skin25.png",
+      "view_skin":"file:///android_asset/25.png"
     }
   ],
   "Skin-Pack": 
