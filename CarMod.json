@@ -1,0 +1,80 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+
+  ],
+  "Skin-Pack": 
+  [
+
+  ],
+  "Addons": 
+  [
+    {
+      "id":0,
+      "name_add":"Lightning",
+      "add_url":"file:///android_asset/Lightning/Lightning.zip",
+      "addB_url":"file:///android_asset/Lightning/LightningB.mcpack",
+      "addR_url":"file:///android_asset/Lightning/LightningR.mcpack",
+      "view_add":"file:///android_asset/Lightning/Lightning.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"BMW",
+      "add_url":"file:///android_asset/BMW/BMW.zip",
+      "addB_url":"file:///android_asset/BMW/BMW M3 GTR (B).mcpack",
+      "addR_url":"file:///android_asset/BMW/BMW M3 GTR (R).mcpack",
+      "view_add":"file:///android_asset/BMW/BMW.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"Nissan",
+      "add_url":"file:///android_asset/Nissan/Nissan.zip",
+      "addB_url":"file:///android_asset/Nissan/Nissan Skyline R34 (B).mcpack",
+      "addR_url":"file:///android_asset/Nissan/Nissan Skyline R34 (R).mcpack",
+      "view_add":"file:///android_asset/Nissan/Nissan.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"Roleplay Traffic",
+      "add_url":"file:///android_asset/Roleplay Traffic/Roleplay Traffic.zip",
+      "addB_url":"file:///android_asset/Roleplay Traffic/Behavior.mcpack",
+      "addR_url":"file:///android_asset/Roleplay Traffic/Resource.mcpack",
+      "view_add":"file:///android_asset/Roleplay Traffic/Roleplay Traffic.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    }
+  ],
+  "Maps": 
+  [
+
+  ]
+}
