@@ -1,0 +1,80 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+
+  ],
+  "Skin-Pack": 
+  [
+
+  ],
+  "Addons": 
+  [
+	{
+      "id":0,
+      "name_add":"X-Ray Texture Pack",
+      "add_url":"https://mcpedl.org/uploads_files/04-06-2020/X-Ray.mcpack",
+      "addB_url":"https://mcpedl.org/uploads_files/04-06-2020/X-Ray.mcpack",
+      "addR_url":"https://mcpedl.org/uploads_files/04-06-2020/X-Ray.mcpack",
+      "view_add":"https://mcpedl.org/wp-content/uploads/2020/06/fotopreviewxray-800x533-c-default.jpg",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"X-Ray Pack",
+      "add_url":"https://mcpedl.org/uploads_files/04-06-2020/X-Ray1.mcpack",
+      "addB_url":"https://mcpedl.org/uploads_files/04-06-2020/X-Ray1.mcpack",
+      "addR_url":"https://mcpedl.org/uploads_files/04-06-2020/X-Ray1.mcpack",
+      "view_add":"https://mcpedl.org/wp-content/uploads/2020/06/fotopreview2-4-800x533-c-default.jpg",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"XrayForSeeders Resource Pack",
+      "add_url":"https://mcpedl.org/uploads_files/04-06-2020/XrayForSeeders.mcpack",
+      "addB_url":"https://mcpedl.org/uploads_files/04-06-2020/XrayForSeeders.mcpack",
+      "addR_url":"https://mcpedl.org/uploads_files/04-06-2020/XrayForSeeders.mcpack",
+      "view_add":"https://mcpedl.org/wp-content/uploads/2020/06/fotorays3-800x533-c-default.jpg",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"Netherrack X-Ray",
+      "add_url":"https://mcpedl.org/uploads_files/04-06-2020/NetherrackXray.mcpack",
+      "addB_url":"https://mcpedl.org/uploads_files/04-06-2020/NetherrackXray.mcpack",
+      "addR_url":"https://mcpedl.org/uploads_files/04-06-2020/NetherrackXray.mcpack",
+      "view_add":"https://mcpedl.org/wp-content/uploads/2020/06/fotorays1-800x533-c-default.jpg",
+      "des_add":"file:///android_asset/ADDON.html"
+    }
+  ],
+  "Maps": 
+  [
+
+  ]
+}
