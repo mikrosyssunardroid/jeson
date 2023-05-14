@@ -1,0 +1,71 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+
+  ],
+  "Skin-Pack": 
+  [
+
+  ],
+  "Addons": 
+  [
+	{
+      "id":0,
+      "name_add":"Black Ops Weapon",
+      "add_url":"file:///android_asset/black-ops-weapon/black-ops-weapon.zip",
+      "addB_url":"file:///android_asset/black-ops-weapon/B.O-V1.3.2-[B].mcpack",
+      "addR_url":"file:///android_asset/black-ops-weapon/B.O-V1.3.2-[R].mcpack",
+      "view_add":"file:///android_asset/black-ops-weapon/black-ops-weapon.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"Warfare",
+      "add_url":"file:///android_asset/Warfare/Warfare.zip",
+      "addB_url":"file:///android_asset/Warfare/InSaRes Warfare B.mcpack",
+      "addR_url":"file:///android_asset/Warfare/InSaRes Warfare R.mcpack",
+      "view_add":"file:///android_asset/Warfare/Warfare.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    },
+	{
+      "id":0,
+      "name_add":"World War2 Weapons",
+      "add_url":"file:///android_asset/world-war-2-weapons/world-war-2-weapons.zip",
+      "addB_url":"file:///android_asset/world-war-2-weapons/WW2 addon Behavior.mcpack",
+      "addR_url":"file:///android_asset/world-war-2-weapons/WW2 addon Resources.mcpack",
+      "view_add":"file:///android_asset/world-war-2-weapons/world-war-2-weapons.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    }
+  ],
+  "Maps": 
+  [
+
+  ]
+}
