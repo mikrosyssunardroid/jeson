@@ -1,0 +1,58 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+
+  ],
+  "Skin-Pack": 
+  [
+
+  ],
+  "Addons": 
+  [
+
+  ],
+  "Maps": 
+  [
+	{
+      "id": 0,
+      "name_map": "TRG Village",
+      "view_map": "https://mcpedl.org/uploads_files/05-07-2020/trg-village.mcworld",
+      "map_url": "https://mcpedl.org/wp-content/uploads/2020/07/fotocastle1-800x533-c-default.jpg",
+      "des_map": "file:///android_asset/MAPS.html"
+    },
+	{
+      "id": 0,
+      "name_map": "DJs Castle Hide and Seek",
+      "view_map": "https://mcpedl.org/wp-content/uploads/2020/07/fotocastle3-800x533-c-default.jpg",
+      "map_url": "https://mcpedl.org/uploads_files/05-07-2020/castehideandseek.mcworld",
+      "des_map": "file:///android_asset/MAPS.html"
+    }
+  ]
+}
