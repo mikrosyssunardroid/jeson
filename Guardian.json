@@ -1,0 +1,53 @@
+{
+   "Ads": [
+    {
+      "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    
+    }
+  ],
+  "Skin": 
+  [
+
+  ],
+  "Skin-Pack": 
+  [
+
+  ],
+  "Addons": 
+  [
+	{
+      "id":0,
+      "name_add":"Guardians Mod",
+      "add_url":"file:///android_asset/file/Guardians-of-the-Galaxy.zip",
+      "addB_url":"file:///android_asset/file/I am Groot BehaviorPack.mcpack",
+      "addR_url":"file:///android_asset/file/I am Groot TexturePack.mcpack",
+      "view_add":"file:///android_asset/file/guard.png",
+      "des_add":"file:///android_asset/ADDON.html"
+    }
+  ],
+  "Maps": 
+  [
+
+  ]
+}
